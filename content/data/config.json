@@ -30,7 +30,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo_alt": "Almaz-logo"
     },
     "footer": {
         "has_nav": true,
